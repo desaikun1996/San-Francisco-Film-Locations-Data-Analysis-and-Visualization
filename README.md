@@ -1,2 +1,2 @@
 # San Francisco Film Locations Data Analysis and Visualization
- Performed data analysis, ETL and data visualization of San Francisco Film Locations dataset. 
+ Performed Data Analysis, Extraction, Transformation and Loading (ETL) of data using Talend, followed by appropriate visualization of all the data metrics using Tableau and PowerBI of the San Francisco Film Locations dataset. 
